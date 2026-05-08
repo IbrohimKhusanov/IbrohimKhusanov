@@ -1,9 +1,10 @@
-# Assalamu Alaykum! 👋 I'm Ibrohim Khusanov
+# Assalamu Alaykum! 👋 I'm Ibroxim Xusanov
 
-### Backend Developer | Python & Django | Building Scalable Solutions 🚀
+### Backend Developer from Uzbekistan 🇺🇿 | Python & Django
 
-💼 Backend Developer | Python, Django, FastAPI   
-📍 Tashkent, Uzbekistan 🇺🇿
+🎓 Information Systems & Technologies Student  
+💻 Building scalable web solutions  
+🏆 Patent Holder № DGU 51507
 
 ---
 
@@ -24,13 +25,21 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Aiogram](https://img.shields.io/badge/Aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 
 ---
 
-## 📊 CodeWars account
+## 📊 Coding Stats
 
 <a href="https://www.codewars.com/users/khusanoof">
-  <img src="https://www.codewars.com/users/khusanoof/badges/large" alt="Codewars Badge"/>
+  <img src="https://www.codewars.com/users/khusanoof/badges/small" alt="Codewars Badge"/>
 </a>
 
 ---
@@ -38,16 +47,13 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IbrohimKhusanov&theme=tokyonight" alt="GitHub Streak"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IbrohimKhusanov&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrohimKhusanov&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
----
-
-## 🌍 Languages
-
-- 🇺🇿 **Uzbek:** Native
-- 🇷🇺 **Russian:** Fluent / Bilingual
-- 🇬🇧 **English:** Intermediate (B1)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IbrohimKhusanov&theme=tokyonight" alt="GitHub Streak"/>
+</div>
 
 ---
 
