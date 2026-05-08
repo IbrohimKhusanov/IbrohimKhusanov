@@ -4,7 +4,6 @@
 
 🎓 Information Systems & Technologies Student  
 💻 Building scalable web solutions  
-🏆 Patent Holder № DGU 51507
 
 ---
 
