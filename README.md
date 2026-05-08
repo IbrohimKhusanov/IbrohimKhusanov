@@ -1,10 +1,8 @@
-# Assalamu Alaykum! 👋 I'm Ibroxim Xusanov
+# Assalamu Alaykum! 👋 I'm Ibrohim Khusanov
 
 ### Backend Developer | Python & Django | Building Scalable Solutions 🚀
 
-🎓 Student at Tashkent State Transport University  
-💼 Backend Developer | Python, Django, FastAPI  
-🏆 Software Patent Holder - Certificate № DGU 51507  
+💼 Backend Developer | Python, Django, FastAPI   
 📍 Tashkent, Uzbekistan 🇺🇿
 
 ---
