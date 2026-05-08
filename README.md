@@ -50,17 +50,16 @@
 ## 📫 Let's Connect!
 
 <p align="left">
-<a href="[https://www.linkedin.com/in/ibrohim-khusanov-4a42a4362?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/ibrohim-khusanov-4a42a4362?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)">
-<img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn"/>
-</a>
-<a href="mailto:xusanovibrohim133@gmail.com">
-<img src="[https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)" alt="Email"/>
-</a>
-<a href="[https://t.me/lincmax](https://t.me/lincmax)">
-<img src="[https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)" alt="Telegram"/>
-</a>
+  <a href="https://www.linkedin.com/in/ibrohim-khusanov-4a42a4362?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:xusanovibrohim133@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://t.me/lincmax">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
 </p>
-
 ---
 
 <div align="center">
