@@ -27,10 +27,10 @@
 
 ---
 
-## 📊 Coding Stats
+## 📊 CodeWars account
 
 <a href="https://www.codewars.com/users/khusanoof">
-  <img src="https://www.codewars.com/users/khusanoof/badges/small" alt="Codewars Badge"/>
+  <img src="https://www.codewars.com/users/khusanoof/badges/large" alt="Codewars Badge"/>
 </a>
 
 ---
