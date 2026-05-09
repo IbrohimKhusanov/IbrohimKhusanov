@@ -1,6 +1,6 @@
-# Assalamu Alaykum! 👋 I'm Ibrohim Khusanov
+## Assalamu Alaykum! 👋 I'm Ibrohim Khusanov
 
-### Backend Developer from Uzbekistan 🇺🇿 | Python & Django
+### Backend Developer from Uzbekistan 🇺🇿
 
 🎓 Information Systems & Technologies Student  
 💻 Building scalable web solutions  
